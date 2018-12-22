@@ -1,0 +1,7 @@
+C:\Users\Salva\Desktop\DesarrolloPOO\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Salva\Desktop\DesarrolloPOO\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Salva\Desktop\DesarrolloPOO\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Salva\Desktop\DesarrolloPOO\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Salva\Desktop\DesarrolloPOO\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Salva\Desktop\DesarrolloPOO\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Salva\Desktop\DesarrolloPOO\Calculadora\obj\Debug\Calculadora.pdb
